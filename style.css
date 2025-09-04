@@ -1,0 +1,16 @@
+body {
+    background-color: #45afe0;
+    color:rgb(0, 0, 0):
+    font-family: "EB Garamond", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin: 220;
+}
+
+button {
+    background-color: #251909;
+    color: rgb(252, 250, 250);
+    font-family: "EB Garamond", serif;;
+}
