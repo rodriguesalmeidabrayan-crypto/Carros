@@ -5,12 +5,14 @@ body {
     align-items: center;
     height: 200px;
     margin: 220;
+    font-size: 150%;
 }
 
 button {
     background-color: #251909;
     color: rgb(252, 250, 250);
     font-family: "EB Garamond", serif;
+    font-size: 100%;
 }
 
 .passo {
@@ -19,4 +21,14 @@ button {
 
 .passo.ativo {
     display: block;
+}
+main{
+  text-align: center;
+  max-width: 3500%;
+
+}
+
+img{
+max-width: 300%
+
 }
